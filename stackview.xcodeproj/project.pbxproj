@@ -302,6 +302,7 @@
 				DB10DFD51E3641D2005199C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
